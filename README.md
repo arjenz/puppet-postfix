@@ -121,7 +121,7 @@ A string to define the smtp line in the /etc/postfix/master.cf file. If this is 
 Default: Undefined.  
 Example: 'smtp      inet  n       -       n       -       -       smtpd'.
 
-##### `master smtps`
+##### `master_smtps`
 A string to define the smtps line in the /etc/postfix/master.cf file.  
 Default: Undefined.  
 Example: 'smtps     inet  n       -       n       -       -       smtpd'.
